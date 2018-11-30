@@ -4,7 +4,7 @@ dropwizard-views-thymeleaf
 Dropwizard のテンプレートエンジンとして、Thymeleaf Viewsを利用する
 
 # Thymeleaf
-http://www.thymeleaf.org/
+http://www.thymeleaf.org
 
 ## Getting Started
 Dropwizard App:
